@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\Blazor\EmployeeManagment.Models\bin\Debug\net5.0\BookManagment.Models.deps.json
+C:\Users\lenovo\source\repos\Blazor\EmployeeManagment.Models\bin\Debug\net5.0\BookManagment.Models.dll
+C:\Users\lenovo\source\repos\Blazor\EmployeeManagment.Models\bin\Debug\net5.0\ref\BookManagment.Models.dll
+C:\Users\lenovo\source\repos\Blazor\EmployeeManagment.Models\bin\Debug\net5.0\BookManagment.Models.pdb
+C:\Users\lenovo\source\repos\Blazor\EmployeeManagment.Models\obj\Debug\net5.0\BookManagment.Models.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Blazor\EmployeeManagment.Models\obj\Debug\net5.0\BookManagment.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Blazor\EmployeeManagment.Models\obj\Debug\net5.0\BookManagment.Models.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Blazor\EmployeeManagment.Models\obj\Debug\net5.0\BookManagment.Models.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Blazor\EmployeeManagment.Models\obj\Debug\net5.0\BookManagment.Models.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Blazor\EmployeeManagment.Models\obj\Debug\net5.0\BookManagment.Models.dll
+C:\Users\lenovo\source\repos\Blazor\EmployeeManagment.Models\obj\Debug\net5.0\ref\BookManagment.Models.dll
+C:\Users\lenovo\source\repos\Blazor\EmployeeManagment.Models\obj\Debug\net5.0\BookManagment.Models.pdb

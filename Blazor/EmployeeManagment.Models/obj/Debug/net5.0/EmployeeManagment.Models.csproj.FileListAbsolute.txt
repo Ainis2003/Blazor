@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\Blazor\EmployeeManagment.Models\bin\Debug\net5.0\EmployeeManagment.Models.deps.json
+C:\Users\lenovo\source\repos\Blazor\EmployeeManagment.Models\bin\Debug\net5.0\EmployeeManagment.Models.dll
+C:\Users\lenovo\source\repos\Blazor\EmployeeManagment.Models\bin\Debug\net5.0\ref\EmployeeManagment.Models.dll
+C:\Users\lenovo\source\repos\Blazor\EmployeeManagment.Models\bin\Debug\net5.0\EmployeeManagment.Models.pdb
+C:\Users\lenovo\source\repos\Blazor\EmployeeManagment.Models\obj\Debug\net5.0\EmployeeManagment.Models.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Blazor\EmployeeManagment.Models\obj\Debug\net5.0\EmployeeManagment.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Blazor\EmployeeManagment.Models\obj\Debug\net5.0\EmployeeManagment.Models.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Blazor\EmployeeManagment.Models\obj\Debug\net5.0\EmployeeManagment.Models.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Blazor\EmployeeManagment.Models\obj\Debug\net5.0\EmployeeManagment.Models.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Blazor\EmployeeManagment.Models\obj\Debug\net5.0\EmployeeManagment.Models.dll
+C:\Users\lenovo\source\repos\Blazor\EmployeeManagment.Models\obj\Debug\net5.0\ref\EmployeeManagment.Models.dll
+C:\Users\lenovo\source\repos\Blazor\EmployeeManagment.Models\obj\Debug\net5.0\EmployeeManagment.Models.pdb

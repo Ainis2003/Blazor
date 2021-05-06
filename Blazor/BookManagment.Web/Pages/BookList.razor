@@ -1,0 +1,33 @@
+﻿@page "/"
+@inherits BookListBase
+
+
+    <h3>Book List</h3>
+
+    @if (Books == null)
+    {
+        <p>Loading...</p>
+    }
+    else
+    {
+        <div class="card-deck">
+            @foreach (var book in Books)
+            {
+                <div class="card m-3" style="min-width: 18rem; max-width:30.5%;">
+                    <div class="card-header">
+                        <h3>@book.Title</h3>
+                        <p>Id: @book.Id</p>
+                        <p>AuthorId: @book.AuthorId</p>
+                        <p>Description: @book.Description</p>
+                        <p>Personal Rating: @book.Rating</p>
+                    </div>
+                    <div class="card-footer text-center">
+                        <EditForm Model="@book">
+                            <h4>Rate: </h4>
+                            <input type="number" min="1" max="5" @bind-value="book.Rating" />
+                        </EditForm>
+                    </div>
+                </div>
+            }
+        </div>
+    }

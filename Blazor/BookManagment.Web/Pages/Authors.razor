@@ -1,0 +1,42 @@
+﻿@page "/authors"
+@inherits AuthorsBase
+
+<h3>Author List</h3>
+<br />
+
+@if (Authors == null)
+{
+                <p>Loading...</p>
+}
+else
+{
+    <div class="card-deck">
+        <table class="table table-bordered">
+            <thead class="thead-dark">
+                <tr>
+                    <th scope="col">Id</th>
+                    <th scope="col">Pen Name</th>
+                    <th scope="col">First Name</th>
+                    <th scope="col">Last Name</th>
+                    <th scope="col">Email</th>
+                    <th scope="col">Average Rating</th>
+                </tr>
+            </thead>
+            @foreach (var author in Authors)
+            {
+                <tbody>
+                    <tr>
+                        <td>@author.Id</td>
+                        <td>@author.PenName</td>
+                        <td>@author.FirstName</td>
+                        <td>@author.LastName</td>
+                        <td>@author.Email</td>
+                        <td>@author.Rating</td>
+                    </tr>
+                </tbody>
+            }
+        </table>
+    </div>
+}
+
+
